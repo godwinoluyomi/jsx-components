@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 
 function App() {
 
-  // Set states for firstname and form submitted
+  // Set states for firstname (Alert) firstnameInput (Textfield) and form submitted
   const [firstName, setFirstName] = useState('there');
   const [firstNameInput, setFirstNameInput] = useState('');
   const [submitted, setSubmitted] = useState(false);
