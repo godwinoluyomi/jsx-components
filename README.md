@@ -1,8 +1,7 @@
-# React + Vite
+JSX Component Checkpoint
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+· Create a card that contains all components
 
-Currently, two official plugins are available:
+· Display a message below the card that says Hello, then your first name, or if you didn’t yet provide your first name, display “Hello, there!” (You can provide your name as a variable above the root component)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+· Display an image if the first name is provided.
